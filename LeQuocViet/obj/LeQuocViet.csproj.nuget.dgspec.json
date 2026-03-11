@@ -1,0 +1,456 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj": {}
+  },
+  "projects": {
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj",
+        "projectName": "AdapterPattern",
+        "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj",
+        "packagesPath": "C:\\Users\\vovan\\.nuget\\packages\\",
+        "outputPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj"
+              },
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
+        "projectName": "BuilderPattern",
+        "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj",
+        "packagesPath": "C:\\Users\\vovan\\.nuget\\packages\\",
+        "outputPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\vovan\\.nuget\\packages\\",
+        "outputPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj",
+        "projectName": "LeQuocViet",
+        "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\LeQuocViet.csproj",
+        "packagesPath": "C:\\Users\\vovan\\.nuget\\packages\\",
+        "outputPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
+              },
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\vovan\\.nuget\\packages\\",
+        "outputPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\vovan\\.nuget\\packages\\",
+        "outputPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\AdapterPattern.csproj"
+              },
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\BuilderPattern.csproj"
+              },
+              "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

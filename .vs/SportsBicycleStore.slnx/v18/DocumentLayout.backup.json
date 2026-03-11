@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{349CF88B-471C-4A5B-899B-0B0CCAC7D001}|VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\vovancuong.desginpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CF88B-471C-4A5B-899B-0B0CCAC7D001}|VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj|solutionrelative:vovancuong.desginpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\interfacerepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfacerepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\adapter\\categoryadapter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\adapter\\categoryadapter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\iadapter\\icategoryadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\iadapter\\icategoryadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\builder\\categorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\categorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\interfacebuilder\\icategorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\interfacebuilder\\icategorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\interfacebuilder\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\interfacebuilder\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CF88B-471C-4A5B-899B-0B0CCAC7D001}|VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\vovancuong.desginpattern\\vovancuong.desginpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{349CF88B-471C-4A5B-899B-0B0CCAC7D001}|VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj|solutionrelative:vovancuong.desginpattern\\vovancuong.desginpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A20A0-838B-4CCB-84DE-A6F849E19377}|HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\hahuyhoang.desginpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A20A0-838B-4CCB-84DE-A6F849E19377}|HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj|solutionrelative:hahuyhoang.desginpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A20A0-838B-4CCB-84DE-A6F849E19377}|HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\hahuyhoang.desginpattern\\hahuyhoang.desginpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2A20A0-838B-4CCB-84DE-A6F849E19377}|HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj|solutionrelative:hahuyhoang.desginpattern\\hahuyhoang.desginpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\adapter\\orderadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\adapter\\orderadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositories\\orderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\orderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\interfaceservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\interfaceservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\interfacerepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfacerepositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\iadapter\\iorderadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\iadapter\\iorderadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\builder\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\morder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\interfaceservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\interfaceservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\interfacerepositories\\imwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfacerepositories\\imwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352187FB-8515-43EA-B229-F58116066A2E}|SportBicycleStore\\SportBicycleStore.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\sportbicyclestore\\sportbicyclestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{352187FB-8515-43EA-B229-F58116066A2E}|SportBicycleStore\\SportBicycleStore.csproj|solutionrelative:sportbicyclestore\\sportbicyclestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F95227-F417-4932-A2BA-9A4F97F9B923}|LeQuocViet\\LeQuocViet.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\lequocviet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F95227-F417-4932-A2BA-9A4F97F9B923}|LeQuocViet\\LeQuocViet.csproj|solutionrelative:lequocviet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\builder\\wishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\builder\\wishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\builderpattern\\interfacebuilder\\iwishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044DE341-433F-5702-4D82-2BB3FD3832E3}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\interfacebuilder\\iwishlistbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115BBA7B-3EED-4F91-9FD5-CAAB564E29FB}|LeQuocViet-Adapter\\LeQuocViet-Adapter.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\lequocviet-adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115BBA7B-3EED-4F91-9FD5-CAAB564E29FB}|LeQuocViet-Adapter\\LeQuocViet-Adapter.csproj|solutionrelative:lequocviet-adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\data\\jsonwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\data\\jsonwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\adapter\\wishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\adapter\\wishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\adapterpattern\\iadapter\\iwishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D3E6F7-8104-8C96-881B-9B14714032AB}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\iadapter\\iwishlistadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\services\\mwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\services\\mwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\interfaceservices\\imwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\interfaceservices\\imwishlistserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\services\\interfaceservices\\imwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\interfaceservices\\imwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\repositories\\repositories\\mwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B3CFA1-410E-B31F-F804-4CC6C048FE3E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\mwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\dto\\createwishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\createwishlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\morderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\morderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\minspectionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\minspectionreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mdisputeevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mdisputeevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\spring_2026\\swd392\\desgin_patern\\designpattern-sportsbicyclestore\\sportsbicyclestore\\domain\\entities\\mdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\mdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryAdapter .cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\CategoryAdapter .cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Adapter\\CategoryAdapter .cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\CategoryAdapter .cs",
+              "RelativeToolTip": "AdapterPattern\\Adapter\\CategoryAdapter .cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:02:50.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InterfaceRepositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\InterfaceRepositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:55:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:55:50.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService .cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\CategoryService .cs",
+              "RelativeDocumentMoniker": "Services\\Services\\CategoryService .cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\CategoryService .cs",
+              "RelativeToolTip": "Services\\Services\\CategoryService .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:05:38.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\VoVanCuong.DesginPattern\\Program.cs",
+              "RelativeDocumentMoniker": "VoVanCuong.DesginPattern\\Program.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\VoVanCuong.DesginPattern\\Program.cs",
+              "RelativeToolTip": "VoVanCuong.DesginPattern\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:07:56.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\ICategoryAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\IAdapter\\ICategoryAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\ICategoryAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\IAdapter\\ICategoryAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:00:57.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryBuilder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\CategoryBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\CategoryBuilder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\CategoryBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\CategoryBuilder.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA8wBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:39:24.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryBuilder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\ICategoryBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\InterfaceBuilder\\ICategoryBuilder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\ICategoryBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\InterfaceBuilder\\ICategoryBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:39:02.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderBuilder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IOrderBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\InterfaceBuilder\\IOrderBuilder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IOrderBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\InterfaceBuilder\\IOrderBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:17:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VoVanCuong.DesginPattern.csproj",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj",
+              "RelativeDocumentMoniker": "VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj",
+              "RelativeToolTip": "VoVanCuong.DesginPattern\\VoVanCuong.DesginPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T15:08:53.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\HaHuyHoang.DesginPattern\\Program.cs",
+              "RelativeDocumentMoniker": "HaHuyHoang.DesginPattern\\Program.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\HaHuyHoang.DesginPattern\\Program.cs",
+              "RelativeToolTip": "HaHuyHoang.DesginPattern\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:25:10.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\OrderAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Adapter\\OrderAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\OrderAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\Adapter\\OrderAdapter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:19:45.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HaHuyHoang.DesginPattern.csproj",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj",
+              "RelativeDocumentMoniker": "HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj",
+              "RelativeToolTip": "HaHuyHoang.DesginPattern\\HaHuyHoang.DesginPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T07:27:44.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderService .cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\OrderService .cs",
+              "RelativeDocumentMoniker": "Services\\Services\\OrderService .cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\OrderService .cs",
+              "RelativeToolTip": "Services\\Services\\OrderService .cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:23:28.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderRepository .cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\OrderRepository .cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\OrderRepository .cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\OrderRepository .cs",
+              "RelativeToolTip": "Repositories\\Repositories\\OrderRepository .cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:22:27.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\InterfaceServices\\IOrderService.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IOrderService.cs",
+              "RelativeToolTip": "Services\\InterfaceServices\\IOrderService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:23:09.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InterfaceRepositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\InterfaceRepositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:21:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\IOrderAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\IAdapter\\IOrderAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\IOrderAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\IAdapter\\IOrderAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:19:15.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\OrderDTO.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:18:49.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderBuilder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\OrderBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\OrderBuilder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\OrderBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\OrderBuilder.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:17:59.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InterfaceServices\\ICategoryService.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\InterfaceServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:05:05.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Morder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morder.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Morder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morder.cs",
+              "RelativeToolTip": "Domain\\Entities\\Morder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:15.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMWishlistRepository.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "RelativeToolTip": "Repositories\\InterfaceRepositories\\IMWishlistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:33:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SportBicycleStore.csproj",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\SportBicycleStore\\SportBicycleStore.csproj",
+              "RelativeDocumentMoniker": "SportBicycleStore\\SportBicycleStore.csproj",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\SportBicycleStore\\SportBicycleStore.csproj",
+              "RelativeToolTip": "SportBicycleStore\\SportBicycleStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T15:55:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T04:35:36.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T15:55:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\Program.cs",
+              "RelativeDocumentMoniker": "LeQuocViet\\Program.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet\\Program.cs",
+              "RelativeToolTip": "LeQuocViet\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:15:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WishlistBuilder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\WishlistBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Builder\\WishlistBuilder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\Builder\\WishlistBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\Builder\\WishlistBuilder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:05:43.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Domain\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:39.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IWishlistBuilder.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\InterfaceBuilder\\IWishlistBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:02:54.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet-Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "LeQuocViet-Adapter\\Program.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\LeQuocViet-Adapter\\Program.cs",
+              "RelativeToolTip": "LeQuocViet-Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:20:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T15:01:30.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Mcategory.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mcategory.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mcategory.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mcategory.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mcategory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:06:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:00:35.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IWishlistAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\IAdapter\\IWishlistAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:12:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JsonWishlist.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\JsonWishlist.cs",
+              "RelativeDocumentMoniker": "Domain\\Data\\JsonWishlist.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Data\\JsonWishlist.cs",
+              "RelativeToolTip": "Domain\\Data\\JsonWishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:00:55.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WishlistAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\Adapter\\WishlistAdapter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:14:15.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MWishlistServiceAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\MWishlistServiceAdapter.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\MWishlistServiceAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\Services\\MWishlistServiceAdapter.cs",
+              "RelativeToolTip": "Services\\Services\\MWishlistServiceAdapter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBZwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:36:02.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMWishlistServiceAdapter.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "RelativeDocumentMoniker": "Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "RelativeToolTip": "Services\\InterfaceServices\\IMWishlistServiceAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:35:30.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IMWishlistService.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistService.cs",
+              "RelativeDocumentMoniker": "Services\\InterfaceServices\\IMWishlistService.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Services\\InterfaceServices\\IMWishlistService.cs",
+              "RelativeToolTip": "Services\\InterfaceServices\\IMWishlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:35:14.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MWishlistRepository.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\MWishlistRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\MWishlistRepository.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Repositories\\Repositories\\MWishlistRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\MWishlistRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T04:46:49.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Mbrand.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mbrand.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mbrand.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mbrand.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mbrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:06:30.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateWishlistRequest.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\CreateWishlistRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\CreateWishlistRequest.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\DTO\\CreateWishlistRequest.cs",
+              "RelativeToolTip": "Domain\\DTO\\CreateWishlistRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:40:58.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Muser.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Muser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Muser.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Muser.cs",
+              "RelativeToolTip": "Domain\\Entities\\Muser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:33.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Mrole.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mrole.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mrole.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mrole.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mrole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Mproduct.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mproduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mproduct.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mproduct.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mproduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:22.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Mpayment.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mpayment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mpayment.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mpayment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mpayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Morderdetail.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morderdetail.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Morderdetail.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Morderdetail.cs",
+              "RelativeToolTip": "Domain\\Entities\\Morderdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:17.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Mmessage.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mmessage.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mmessage.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mmessage.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mmessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:11.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Minspectionreport.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Minspectionreport.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Minspectionreport.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Minspectionreport.cs",
+              "RelativeToolTip": "Domain\\Entities\\Minspectionreport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:05.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MdisputeEvidence.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\MdisputeEvidence.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\MdisputeEvidence.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\MdisputeEvidence.cs",
+              "RelativeToolTip": "Domain\\Entities\\MdisputeEvidence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:07:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Mdispute.cs",
+              "DocumentMoniker": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mdispute.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Mdispute.cs",
+              "ToolTip": "D:\\Spring_2026\\SWD392\\Desgin_Patern\\DesignPattern-SportsBicycleStore\\SportsBicycleStore\\Domain\\Entities\\Mdispute.cs",
+              "RelativeToolTip": "Domain\\Entities\\Mdispute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T03:06:59.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

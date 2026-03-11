@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="AdapterPattern/AdapterPattern.csproj" />
+  <Project Path="BuilderPattern/BuilderPattern.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="HaHuyHoang.DesginPattern/HaHuyHoang.DesginPattern.csproj" Id="3c2a20a0-838b-4ccb-84de-a6f849e19377" />
+  <Project Path="LeQuocViet-Adapter/LeQuocViet-Adapter.csproj" Id="115bba7b-3eed-4f91-9fd5-caab564e29fb" />
+  <Project Path="LeQuocViet/LeQuocViet.csproj" Id="35f95227-f417-4932-a2ba-9a4f97f9b923" />
+  <Project Path="Repositories/Repositories.csproj" />
+  <Project Path="Services/Services.csproj" />
+  <Project Path="SportBicycleStore/SportBicycleStore.csproj" Id="352187fb-8515-43ea-b229-f58116066a2e" />
+  <Project Path="VoVanCuong.DesginPattern/VoVanCuong.DesginPattern.csproj" Id="349cf88b-471c-4a5b-899b-0b0ccac7d001" />
+</Solution>
