@@ -10,6 +10,7 @@ Dự án học tập (OJT – On-the-Job Training) minh họa các **Design Patt
 - [Cấu trúc dự án](#cấu-trúc-dự-án)
 - [Kiến trúc tổng thể](#kiến-trúc-tổng-thể)
 - [Các Design Pattern được áp dụng](#các-design-pattern-được-áp-dụng)
+- [📖 Giải thích chi tiết Design Pattern](./DESIGN_PATTERNS.md)
 - [Mô hình dữ liệu (Domain)](#mô-hình-dữ-liệu-domain)
 - [Hướng dẫn chạy](#hướng-dẫn-chạy)
 - [Thành viên](#thành-viên)
